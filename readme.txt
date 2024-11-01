@@ -30,12 +30,7 @@ liamcoady1@linux203: /home/liamcoady1/project1 >bg pwd
 2271587: cat foo.txt �YU  has terminated.
 liamcoady1@linux203: /home/liamcoady1/project1 >bg pwd
 2271588: pwd  �YU  has terminated.
+This isuue occurs when you improperly format the arguments to a program that you are trying to background execute.
 
-Not sure what is causing this if possible would like some feedback on why this is happening
-
-PROBLEM 2:
-Not really a problem but the background task outputs are currently routed to dev/null, they are not printed to the terminal
-Not sure if they are supposed to be printed to the terminal I saw nothing in the rubric saying so and in teams someone asked the question
-on what to do with bg output and one of the ta's responding by saying route it to dev/null. So thats what I have done.
 
 
